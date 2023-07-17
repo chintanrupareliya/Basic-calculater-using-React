@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+  font-size: medium;
+}
+.screen {
+  text-align: end;
+  justify-content: end;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  font-size: 1.5em;
+}
+.screen {
+  height: 50px;
+}
